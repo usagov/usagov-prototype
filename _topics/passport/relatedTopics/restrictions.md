@@ -2,7 +2,7 @@
 layout: page
 title: Passport Restrictions
 description: The U.S. Department of State cannot tell American citizenswhether they may travel to certain countries, but can restrict the use U.S. passport for travel there.
-permalink: /topics/passport/apply/
+permalink: /topics/passport/restrictions/
 tags: passport denial
 topic: 
 related-topic: passport
@@ -29,12 +29,36 @@ To have a U.S. passport, you must be a U.S. citizen by birth or naturalization o
 
 Apply at a local passport acceptance facility. This could be a library or post office. Some facilities require appointments or have limited hours. 
 
-## If you need your passport quickly
 
-If you need your passport in less than three weeks, follow the expedited process. It will cost an extra $60 plus any additional mail delivery fees.
-
-## If you need to change your name or correct your passport
-If you’ve changed your name or find an error on your passport, you will need to get a new passport to reflect the change. The process, cost and forms you need depend on how long you’ve had your current passport. Follow the steps from the State Department to make the change.
-
-## If you are outside the United States
-Contact the U.S. embassy or consulate near you to request a passport while outside the United States. Expedited service is not available.
+<div class="usa-accordion" aria-multiselectable="true">
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a1">
+      If you need your passport quickly
+    </button>
+  </h2>
+  <div id="m-a1" class="usa-accordion__content usa-prose">
+    <p>If you need your passport in less than three weeks, follow the expedited process. It will cost an extra $60 plus any additional mail delivery fees.</p>
+  </div>
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a2">
+      If you need to change your name or correct your passport
+    </button>
+  </h2>
+  <div id="m-a2" class="usa-accordion__content usa-prose">
+    <p>If you’ve changed your name or find an error on your passport, you will need to get a new passport to reflect the change. The process, cost and forms you need depend on how long you’ve had your current passport. Follow the steps from the State Department to make the change.</p>
+  </div>
+  <h2 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="m-a3">
+      If you are outside the United States
+    </button>
+  </h2>
+  <div id="m-a3" class="usa-accordion__content usa-prose">
+    <p>Contact the U.S. embassy or consulate near you to request a passport while outside the United States. Expedited service is not available.</p>
+  </div>
+</div>

@@ -18,12 +18,13 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
+title: USA.gov
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
 baseurl: "" # the subpath of your site, e.g. /blog
+# logo: /assets/Logo_USAGov.png
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
@@ -39,13 +40,15 @@ dap_agency: GSA
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
+  - name: Passport
+    url: /passport/
+  - name: Menu 1
     url: /blog/
-  - name: Document
+  - name: Menu 2
     url: /document/
-  - name: Document with sidenav
+  - name: Menu 3
     url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Menu 4
     children:
       - name: Navigation link
         url: "#main-content"
