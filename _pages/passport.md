@@ -7,11 +7,11 @@ image: /assets/img/about.jpg
 
 ## U.S. Passports
 
-American Citizens need a U.S. passport to enter and exit the United States. Here you can learn everything you need to apply, renew, replace, or quickly get a passport. Or, to see everything, [find all of information about U.S. Passports.](#relatedTopicsSection)
+American Citizens need a U.S. passport to enter and exit the United States. Here you can learn everything you need to apply, renew, replace, or quickly get a passport.
 
 ### Most Popular
 
-Choose from our most popular topics and your coices will appear below
+Choose from our most popular topics and your coices will appear below. Or, to see everything, [find all of information about U.S. Passports.](#relatedTopicsSection)
 
 <form id="filters" action="" class="usa-form">      
   <fieldset class="usa-fieldset">      
